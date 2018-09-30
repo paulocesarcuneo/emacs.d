@@ -222,7 +222,7 @@
  ;; If there is more than one, they won't work right.
  '(package-selected-packages
    (quote
-    (smart-mode-line-powerline-theme powerline csv-mode csv vlf ido-ubiquitous graphviz-dot-mode js2-mode magit jq-mode smex smartparens rainbow-delimiters paredit multiple-cursors inf-clojure company-quickhelp cider))))
+    (anaconda-mode dockerfile-mode docker docker-compose-mode smart-mode-line-powerline-theme powerline csv-mode csv vlf ido-ubiquitous graphviz-dot-mode js2-mode magit jq-mode smex smartparens rainbow-delimiters paredit multiple-cursors inf-clojure company-quickhelp cider))))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
